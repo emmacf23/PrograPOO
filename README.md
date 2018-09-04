@@ -1,2 +1,2 @@
 # PrograPOO
-ME cago en tencha
+Starting to understanding how GitHub works.
